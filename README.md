@@ -1,9 +1,9 @@
 ## Hi there, I'm Danny 😊🤙
 
 
-🌏 An Auckland–based researcher with over 15 years experience helping organisations understand how people think about and interact with the world.
+🌏 An Auckland–based researcher with over 15 years experience helping organisations understand how people think and operate. 
 
-⚗ Lately, I’ve been building on my data analysis skills and evolving them into a data science toolkit — swapping out Miro boards and Excel for Jupyter notebooks.
+⚗ Lately, I’ve been building on my data analysis skills and evolving them into a data science toolkit.
 
 📚 Whilst I'm comfortable with basic Python and SQL, I’m currently learning...
 - python libraries including NumPy, Pandas, Matplotlib, and Seaborn - primarily through trial and error.
