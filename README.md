@@ -3,7 +3,7 @@
 
 🌏 A New Zealand–based User Researcher with over 10 years of senior-level experience helping organisations understand people, shape better products, and make confident decisions.
 
-⚗ Lately, I’ve been diving deeper into data analysis and building up my skills in data science, swapping out miro boards for Jupyter notebooks.
+⚗ Lately, I’ve been diving deeper into data science and upping my skills in data analysis, swapping out miro boards for Jupyter notebooks.
 
 🏝 Outside of work, I’m usually at the beach with my daughter, chasing waves, sunshine, and that mythic work–life balance.
 
