@@ -1,7 +1,7 @@
 ## Hi there, I'm Danny 😊🤙
 
 
-🌏 A New Zealand–based researcher with over 10 years of senior-level experience helping organisations understand how people think about and interact with the world.
+🌏 A New Zealand–based researcher with over 15 years experience helping organisations understand how people think about and interact with the world.
 
 ⚗ Lately, I’ve been building on my data analysis skills and evolving them into a data science toolkit — swapping out Miro boards for Jupyter notebooks.
 
