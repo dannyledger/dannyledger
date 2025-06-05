@@ -1,7 +1,7 @@
 ## Hi there, I'm Danny 😊🤙
 
 
-🌏 A New Zealand–based User Researcher with over 10 years of senior-level experience helping organisations understand people, shape better products, and make confident decisions.
+🌏 A New Zealand–based User Researcher with over 10 years of senior-level experience helping organisations understand the way people think and do.
 
 ⚗ Lately, I’ve been diving deeper into data science and upping my skills in data analysis, swapping out miro boards for Jupyter notebooks.
 
