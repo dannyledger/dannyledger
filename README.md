@@ -5,7 +5,7 @@
 
 ⚗ Lately, I’ve been diving deeper into data science and upping my skills in data analysis, swapping out miro boards for Jupyter notebooks.
 
-🏝 Outside of work, I’m usually at the beach with my daughter, chasing waves, sunshine, and that mythic work–life balance.
+🏝 Outside of work, I’m usually at the beach with my family, chasing waves, sunshine, and that mythic work–life balance.
 
 📚 Whilst I'm comfortable with basic Python and SQL, I’m currently learning ...
 - NumPy, Pandas, Matplotlib, and Seaborn - primarily through trial and error.
