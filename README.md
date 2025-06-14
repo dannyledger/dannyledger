@@ -6,7 +6,7 @@
 ⚗ Lately, I’ve been building on my data analysis skills and evolving them into a data science toolkit.
 
 📚 Whilst I'm comfortable with basic Python and SQL, I’m currently learning...
-- python libraries including NumPy, Pandas, Matplotlib, Seaborn SciPyand Statsmodels - primarily through trial and error.
+- python libraries including NumPy, Pandas, Matplotlib, Seaborn SciPy and Statsmodels - primarily through trial and error.
 - the essential Math and Statistics required for DataSci - primarily through books and bootcamps.
 - the initial steps into Machine Learning and Deep Learning - primarily through watching lectures and going '_huh_' a lot. 
 
