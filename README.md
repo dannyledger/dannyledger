@@ -1,7 +1,7 @@
 ## Hi there, I'm Danny 😊🤙
 
 
-🌏 An Auckland–based researcher with over a 10 years experience helping organisations understand how people think and operate. 
+🌏 An Auckland–based researcher with over 10 years experience helping organisations understand how people think and operate. 
 
 ⚗ Lately, I’ve been building on my technical skills and evolving them into a hybrid data engineering and analysis toolkit.
 
