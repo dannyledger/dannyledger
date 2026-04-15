@@ -9,6 +9,7 @@
 - the critical methods and tooling of a data engineer - aiming to build and automate scalable data pipelines.
 - python libraries including NumPy, Pandas, Matplotlib, Seaborn, SciPy and Statsmodels - primarily through trial and error.
 - the essential maths and statistics required for analysis - primarily through books and bootcamps.
-- the initial steps into Machine Learning and Deep Learning - primarily through watching lectures and going '_huh_' a lot. 
+- the initial steps into Machine Learning and Deep Learning - primarily through watching lectures and going '_huh_' a lot.
+- any and all theory and reference of modern cyber security - when I'm not working, you'll find me studying.  
 
 🏝 Outside of work, I’m usually at the beach with my family, chasing waves, sunshine, and that mythic work–life balance.
