@@ -1,12 +1,12 @@
 ## Hi there, I'm Danny 😊🤙
 
 
-🌏 An Auckland–based researcher with over 10 years experience helping organisations understand how people think and operate. 
+🌏 An Auckland–based researcher and analyst with over a decade's experience helping organisations understand how people think and operate. 
 
 ⚗ Lately, I’ve been building on my technical skills, attempting to evolve them into a hybrid data engineering and science toolkit. 
 
 📚 I have learned or am currently learning...
-- the critical methods and tooling of a data analyst and engineer.
+- the critical methods and tooling of a data analyst, scientist and engineer.
 - updating my SQL capabilities, understanding Snowflake.
 - python libraries including NumPy, Pandas, Matplotlib, Seaborn, SciPy and Statsmodels - primarily through trial and error.
 - the essential maths and statistics required for analysis - primarily through books and bootcamps.
