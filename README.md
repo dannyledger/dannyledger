@@ -5,7 +5,7 @@
 
 ⚗ Lately, I’ve been building on my technical skills, attempting to evolve them into a hybrid data engineering and science toolkit. 
 
-📚 I have learned or am currently learning...
+📚 I have learned, am currently learning or just enjoy...
 - the critical methods and tooling of a data analyst, scientist and engineer.
 - updating my SQL capabilities, understanding Snowflake.
 - python libraries including NumPy, Pandas, Matplotlib, Seaborn, SciPy and Statsmodels - primarily through trial and error.
